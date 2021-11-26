@@ -1,5 +1,7 @@
 # InsperQRCode
 
+
+## Usando o Termux
 Para ter uma linha de comando no android, é necessário instalar o Termux.
 
 Estando lá, você precisa colocar: 
@@ -29,3 +31,10 @@ python GetQRCode.py
 Linha para rodar o Chrome usando Termux
 
 am start --user 0 -n com.android.chrome/com.google.android.apps.chrome.Main
+
+
+# Usando o T-UI (Linux CLI Launcher)
+
+Colocamos:
+
+Insper
